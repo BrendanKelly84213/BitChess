@@ -468,7 +468,8 @@ Flag flag(const move m);
 class MasterBoard
 {	
 	uint64_t board[2][6];
-	std::vector<PieceType> captured;
+	PieceType last_capture;
+	MoveList history;
 
 	//Only to be called on the first ply 
 	void init() 
@@ -503,7 +504,6 @@ class MasterBoard
 			if (board[us][piece] & square_bb(location))
 				return piece;
 		return None;
-
 	}
 	
 	explicit MasterBoard( const move m, Colour const us, PieceType const piece, MasterBoard const & mb ) {	  
@@ -515,6 +515,7 @@ class MasterBoard
 		//Clear the captured piece from its bitboard
 		if ( flag ( m ) == capture ) { 
 			PieceType captured_p = what_piece( to_sq(m), !us );
+			last_capture = captured_p;
 			clear_bit ( this->board[!us][captured_p], to_sq(m) );
 		}
 		clear_bit( this->board[us][piece], from_sq(m) );	
@@ -522,24 +523,29 @@ class MasterBoard
 
 public:
 
-	MasterBoard() { init(); } 
+	MasterBoard() : last_capture(None) { init(); } 
 
 	MasterBoard n_make_move( move m, Colour us ) {
 		return MasterBoard(m, us, what_piece(m,us), *this);		
 	}
 
-	MasterBoard n_make_move ( move m, Colour us, PieceType piece ) {
-		return MasterBoard ( m, us, piece, *this );
-	}
-
  	void make_move(move m, Colour us) {
+		if ( flag(m) == capture ) 
+			last_capture = what_piece ( to_sq ( m ), !us );	
+		else last_capture = None;
 		set_bit( board[us][what_piece(m, us)], to_sq(m) );
 		clear_bit( board[us][what_piece(m, us)], from_sq(m) );
 	}
 
 	void unmake_move(move m, Colour us) {
-		set_bit( board[us][what_piece(m,us)], from_sq(m) );
-		clear_bit( board[us][what_piece(m,us)], to_sq(m) );
+		set_bit( board[us][what_piece(to_sq(m),us)], from_sq(m) );
+		clear_bit( board[us][what_piece(from_sq(m),us)], to_sq(m) );
+		if ( flag(m) == capture ) 
+			set_bit( board[!us][last_capture], to_sq(m) );
+	}
+
+	PieceType last_captured_p() {
+		return last_capture;
 	}
 
 	constexpr uint64_t our_guys(Colour us) const { 
@@ -849,7 +855,7 @@ int alpha_beta_min ( MasterBoard board, int depth, int alpha, int beta )
 	return value;
 }
 
-move best_move ( MasterBoard board, int ply, Colour us ) {
+move best_move ( MasterBoard board, int ply, int depth, Colour us ) {
 	std::map<const move, const int> move_score;
 	MoveList moves;
 	for ( moves = generatePsuedoLegal( us, moves, ply, board ); 
@@ -857,9 +863,9 @@ move best_move ( MasterBoard board, int ply, Colour us ) {
 			moves = moves.popped_front() ) 
 	{
 		int score = us == WHITE ? alpha_beta_max(board.n_make_move(moves.front(), us), 
-							8, INT_MIN, INT_MAX)
+							depth, INT_MIN, INT_MAX)
 			    		: alpha_beta_min(board.n_make_move(moves.front(), us), 
-							8, INT_MIN, INT_MAX);
+							depth, INT_MIN, INT_MAX);
 		move_score.insert( { moves.front(), score } );
 	}
 	auto x = us == WHITE ? std::max_element ( move_score.begin(), move_score.end(), 
@@ -883,14 +889,15 @@ int main()
 	MoveList moves;
 	
 	Colour us = WHITE;
-	
+
 	for ( int i = 0; ; ++i ) {
-		board = board.n_make_move ( best_move ( board, i, us ), us );
+		move m = best_move ( board, i, 8, us );
+		board = board.n_make_move ( m, us );
+		std::cout << bullshit_function ( flag ( m ) ) << '\n'; 
 		mailbox::update( board );
 		mailbox::print();
 		us = !us;
 	}
-
 	
 	return 0;
 }
