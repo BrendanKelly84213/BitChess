@@ -72,7 +72,7 @@ inline void set_bit(uint64_t &bb, int square) { bb |= 1ULL << square;}
 
 constexpr uint64_t get_bit(uint64_t bb, int x, int y) { return (bb >> makeEasy(x,y)) & 1ULL;}
 constexpr uint64_t get_bit(uint64_t bb, int square)   {  return (bb >> square & 1ULL);}
-
+		
 inline void clear_bit(uint64_t &bb, int x, int y) { bb &= ~(1ULL << makeEasy(x,y));}
 inline void clear_bit(uint64_t &bb, int square ) { bb &= ~(1ULL << square);} 
 
@@ -507,6 +507,15 @@ class MasterBoard
 	}
 	
 	explicit MasterBoard( const move m, Colour const us, PieceType const piece, MasterBoard const & mb ) {	  
+		switch ( flag (m) ) {
+			case capture:
+				last_capture = what_piece ( to_sq ( m ), !us );
+				break;
+			case quiet:
+				last_capture = None;
+				break;
+			default: break;
+		}
 		for(PieceType p = Pawn; p <= King; ++p) {
 			this->board[us][p] = mb.board[us][p];
 			this->board[!us][p] = mb.board[!us][p];
@@ -530,9 +539,15 @@ public:
 	}
 
  	void make_move(move m, Colour us) {
-		if ( flag(m) == capture ) 
-			last_capture = what_piece ( to_sq ( m ), !us );	
-		else last_capture = None;
+		switch ( flag (m) ) {
+			case capture:
+				last_capture = what_piece ( to_sq ( m ), !us );
+				break;
+			case quiet:
+				last_capture = None;
+				break;
+			default: break;
+		}
 		set_bit( board[us][what_piece(m, us)], to_sq(m) );
 		clear_bit( board[us][what_piece(m, us)], from_sq(m) );
 	}
@@ -891,9 +906,10 @@ int main()
 	Colour us = WHITE;
 
 	for ( int i = 0; ; ++i ) {
-		move m = best_move ( board, i, 8, us );
+		move m = best_move ( board, i, 6, us );
 		board = board.n_make_move ( m, us );
-		std::cout << bullshit_function ( flag ( m ) ) << '\n'; 
+		std::cout << bullshit_function ( flag ( m ) ) << '\n'
+			  << bullshit_function ( board.last_captured_p () ) << '\n';
 		mailbox::update( board );
 		mailbox::print();
 		us = !us;
