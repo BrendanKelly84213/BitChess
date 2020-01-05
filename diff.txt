@@ -1,0 +1,274 @@
+0a1
+>  
+467,474c468
+< enum castling_masks : uint8_t {
+< 	wOOO = 1,
+< 	wOO  = 2,
+< 	bOOO = 4,
+< 	bOO  = 8
+< };
+< 
+< //Position information
+---
+> //Array for easy access to each bitboard for each piece
+478a473
+> 	MoveList history;
+508,514c503,506
+< 	PieceType what_happened ( move m, Colour us ) const {
+< 		switch ( flag ( m ) ) {
+< 			case capture:
+< 				return what_piece ( to_sq ( m ), !us );
+< 			//TODO: Castles, en passant
+< 			default: break;
+< 		}
+---
+> 	PieceType what_piece( SQ location, Colour us ) const {
+> 		for(PieceType piece = Pawn; piece <= King; ++piece) 
+> 			if (board[us][piece] & square_bb(location))
+> 				return piece;
+518,520c510,520
+< 	explicit MasterBoard ( const move m, Colour const us, MasterBoard const & mb ) {	  
+< 		//Copy the board
+< 		for ( PieceType p = Pawn; p <= King; ++p ) {
+---
+> 	explicit MasterBoard( const move m, Colour const us, PieceType const piece, MasterBoard const & mb ) {	  
+> 		switch ( flag (m) ) {
+> 			case capture:
+> 				last_capture = what_piece ( to_sq ( m ), !us );
+> 				break;
+> 			case quiet:
+> 				last_capture = None;
+> 				break;
+> 			default: break;
+> 		}
+> 		for(PieceType p = Pawn; p <= King; ++p) {
+524,532c524,529
+< 
+< 		//What piece is moving ?  
+< 		PieceType piece = this->what_piece ( from_sq ( m ), us );
+< 
+< 		// What piece was captured ? 
+< 
+< 		//Handle remove piece from location of capture 
+< 		if ( flag ( m ) == capture ) {
+< 			clear_bit ( this->board[!us][ this->last_capture ], to_sq ( m ) );
+---
+> 		set_bit( this->board[us][piece], to_sq(m) );
+> 		//Clear the captured piece from its bitboard
+> 		if ( flag ( m ) == capture ) { 
+> 			PieceType captured_p = what_piece( to_sq(m), !us );
+> 			last_capture = captured_p;
+> 			clear_bit ( this->board[!us][captured_p], to_sq(m) );
+534,536c531
+< 
+< 		set_bit ( this->board[us][piece], to_sq(m) );
+< 		clear_bit ( this->board[us][piece], from_sq(m) );	
+---
+> 		clear_bit( this->board[us][piece], from_sq(m) );	
+540,545d534
+< 	PieceType what_piece( SQ location, Colour us ) const {
+< 		for(PieceType piece = Pawn; piece <= King; ++piece) 
+< 			if (board[us][piece] & square_bb(location))
+< 				return piece;
+< 		return None;
+< 	}
+550c539
+< 		return MasterBoard(m, us, *this);		
+---
+> 		return MasterBoard(m, us, what_piece(m,us), *this);		
+554,562c543,553
+< 		last_capture = what_happened ( m, us );
+< 		//What piece is moving ? 
+< 		PieceType piece = what_piece ( from_sq ( m ), us );
+< 
+< 		set_bit( board[us][piece], to_sq ( m ) );
+< 		clear_bit( board[us][piece], from_sq ( m ) );
+< 
+< 		if ( flag ( m ) == capture )
+< 			clear_bit ( board[!us][last_capture], to_sq ( m ) );
+---
+> 		switch ( flag (m) ) {
+> 			case capture:
+> 				last_capture = what_piece ( to_sq ( m ), !us );
+> 				break;
+> 			case quiet:
+> 				last_capture = None;
+> 				break;
+> 			default: break;
+> 		}
+> 		set_bit( board[us][what_piece(m, us)], to_sq(m) );
+> 		clear_bit( board[us][what_piece(m, us)], from_sq(m) );
+566,571c557,558
+< 		PieceType piece = what_piece ( from_sq ( m ), us );
+< 		//Set the moving piece back where it came from 
+< 		set_bit( board[us][piece], from_sq(m) );
+< 		//Clear the moving piece from its current location
+< 		clear_bit( board[us][piece], to_sq(m) );
+< 		//Set the captured piece back on the bitboard
+---
+> 		set_bit( board[us][what_piece(to_sq(m),us)], from_sq(m) );
+> 		clear_bit( board[us][what_piece(from_sq(m),us)], to_sq(m) );
+576c563
+< 	PieceType last_captured_p( ) {
+---
+> 	PieceType last_captured_p() {
+666a654,664
+> bool can_castle_kingside(SQ origin, Colour us, MasterBoard board) {
+> 	return true;			
+> }
+> 
+> uint64_t castle(SQ origin, Colour us, MasterBoard board) {
+> 	if (can_castle_kingside(origin, us, board)) {
+> 		return 0;
+> 	}
+> 	return 0;
+> }
+> 
+829c827
+< 		return ( evaluate ( board, us ) + evaluate( board, !us ) );  
+---
+> 		return (evaluate ( board, us ) + evaluate( board, !us ) );  
+900,1007d897
+< SQ parse ( std::string s ) 
+< {
+< 	if ( s == "a1" ) return a1;
+< 	if ( s == "a2" ) return a2;
+< 	if ( s == "a3" ) return a3;
+< 	if ( s == "a4" ) return a4;
+< 	if ( s == "a5" ) return a5;
+< 	if ( s == "a6" ) return a6;
+< 	if ( s == "a7" ) return a7;
+< 	if ( s == "a8" ) return a8;
+< 	if ( s == "b1" ) return b1;
+< 	if ( s == "b2" ) return b2;
+< 	if ( s == "b3" ) return b3;
+< 	if ( s == "b4" ) return b4;
+< 	if ( s == "b5" ) return b5;
+< 	if ( s == "b6" ) return b6;
+< 	if ( s == "b7" ) return b7;
+< 	if ( s == "b8" ) return b8;
+< 	if ( s == "c1" ) return c1;
+< 	if ( s == "c2" ) return c2;
+< 	if ( s == "c3" ) return c3;
+< 	if ( s == "c4" ) return c4;
+< 	if ( s == "c5" ) return c5;
+< 	if ( s == "c6" ) return c6;
+< 	if ( s == "c7" ) return c7;
+< 	if ( s == "c8" ) return c8;
+< 	if ( s == "d1" ) return d1;
+< 	if ( s == "d2" ) return d2;
+< 	if ( s == "d3" ) return d3;
+< 	if ( s == "d4" ) return d4;
+< 	if ( s == "d5" ) return d5;
+< 	if ( s == "d6" ) return d6;
+< 	if ( s == "d7" ) return d7;
+< 	if ( s == "d8" ) return d8;
+< 	if ( s == "e1" ) return e1;
+< 	if ( s == "e2" ) return e2;
+< 	if ( s == "e3" ) return e3;
+< 	if ( s == "e4" ) return e4;
+< 	if ( s == "e5" ) return e5;
+< 	if ( s == "e6" ) return e6;
+< 	if ( s == "e7" ) return e7;
+< 	if ( s == "e8" ) return e8;
+< 	if ( s == "f1" ) return f1;
+< 	if ( s == "f2" ) return f2;
+< 	if ( s == "f3" ) return f3;
+< 	if ( s == "f4" ) return f4;
+< 	if ( s == "f5" ) return f5;
+< 	if ( s == "f6" ) return f6;
+< 	if ( s == "f7" ) return f7;
+< 	if ( s == "f8" ) return f8;
+< 	if ( s == "g1" ) return g1;
+< 	if ( s == "g2" ) return g2;
+< 	if ( s == "g3" ) return g3;
+< 	if ( s == "g4" ) return g4;
+< 	if ( s == "g5" ) return g5;
+< 	if ( s == "g6" ) return g6;
+< 	if ( s == "g7" ) return g7;
+< 	if ( s == "g8" ) return g8;
+< 	if ( s == "h1" ) return h1;
+< 	if ( s == "h2" ) return h2;
+< 	if ( s == "h3" ) return h3;
+< 	if ( s == "h4" ) return h4;
+< 	if ( s == "h5" ) return h5;
+< 	if ( s == "h6" ) return h6;
+< 	if ( s == "h7" ) return h7;
+< 	if ( s == "h8" ) return h8;
+< 	return a1;
+< }
+< 
+< uint64_t perft ( int depth ) {
+< 	MasterBoard board;
+< 	MoveList moves;
+< 	uint64_t nodes = 0;
+< 
+< 	if ( depth == 0 ) return 1;
+< 	
+< 	for ( moves = generatePsuedoLegal( WHITE, moves, 1, board );
+< 			!moves.popped_front().is_empty(); 
+< 			moves = moves.popped_front() ) 
+< 	{
+< 		board.make_move( moves.front(), WHITE);
+< 		nodes += perft ( depth - 1 );
+< 		board.unmake_move( moves.front(), WHITE );
+< 	}
+< 	return nodes;
+< }
+< 
+< void move_printer ( int depth, Colour us = WHITE) {
+< 	MasterBoard board;
+< 	MoveList moves;
+< 	uint64_t nodes = 0;
+< 
+< 	if ( depth == 0 ) return;
+< 	
+< 	for ( moves = generatePsuedoLegal( us, moves, 1, board );
+< 			!moves.popped_front().is_empty(); 
+< 			moves = moves.popped_front() ) 
+< 	{
+< 		
+< 		board.make_move( moves.front(), WHITE);
+< 		mailbox::update ( board );
+< 		mailbox::print ( );
+< 		move_printer ( depth - 1, !us );
+< 		board.unmake_move( moves.front(), WHITE );
+< 	}
+< }
+< 
+< 
+1013a904,906
+> 
+> 	MoveList moves;
+> 	
+1017c910
+< 		move m = best_move ( board, i, 8, us );
+---
+> 		move m = best_move ( board, i, 6, us );
+1025,1044d917
+< /*
+< 
+< 	for ( ; ; ) 
+< 	{
+< 		mailbox::print();
+< 		//White moves 
+< 		std::string from, to;
+< 		std::cin >> from >> to;
+< 
+< 		move m = make_move ( parse(from), parse( to ) );
+< 		m += flag ( m, board.what_piece ( from_sq ( m ), us ), board.our_guys(!us) );
+< 		board = board.n_make_move( m, us );
+< 		
+< 		std::cout << bullshit_function ( flag ( m ) ) << '\n';
+< 		mailbox::update( board );
+< 		mailbox::print();
+< 
+< 		//Computer moves
+< 		move m1 = best_move ( board, 1, 6, !us );
+< 		board = board.n_make_move( m1, !us );
+1046,1050d918
+< 		mailbox::update( board );
+< 	}	
+< */	
+< 
+< 

@@ -69,5 +69,4 @@ std::string bullshit_function(Flag flag)
 	return "quiet 	       ";
 }
 
-
 #endif

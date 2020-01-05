@@ -1,3 +1,4 @@
+ 
 #include <iostream>
 #include <array>
 #include <cassert>
@@ -505,28 +506,33 @@ class MasterBoard
 				return piece;
 		return None;
 	}
-	
-	explicit MasterBoard( const move m, Colour const us, PieceType const piece, MasterBoard const & mb ) {	  
-		switch ( flag (m) ) {
-			case capture:
-				last_capture = what_piece ( to_sq ( m ), !us );
-				break;
-			case quiet:
-				last_capture = None;
+
+	PieceType handle_flag ( move m, Colour us ) {
+		switch ( flag ( m ) ) {
+			case capture: 
+				return what_piece ( to_sq ( m ), !us );
 				break;
 			default: break;
 		}
+		return None;
+	}
+	
+	explicit MasterBoard( const move m, Colour const us, PieceType const piece, MasterBoard const & mb ) {	  
+		//Copy the board
 		for(PieceType p = Pawn; p <= King; ++p) {
 			this->board[us][p] = mb.board[us][p];
 			this->board[!us][p] = mb.board[!us][p];
 		}
+
 		set_bit( this->board[us][piece], to_sq(m) );
-		//Clear the captured piece from its bitboard
+
+		last_capture = handle_flag ( m, us );
+		
+		//Clear the captured piece from the bitboard
 		if ( flag ( m ) == capture ) { 
-			PieceType captured_p = what_piece( to_sq(m), !us );
-			last_capture = captured_p;
-			clear_bit ( this->board[!us][captured_p], to_sq(m) );
+			clear_bit ( this->board[!us][this->last_capture], to_sq(m) );
 		}
+
 		clear_bit( this->board[us][piece], from_sq(m) );	
 	}
 
@@ -539,22 +545,22 @@ public:
 	}
 
  	void make_move(move m, Colour us) {
-		switch ( flag (m) ) {
-			case capture:
-				last_capture = what_piece ( to_sq ( m ), !us );
-				break;
-			case quiet:
-				last_capture = None;
-				break;
-			default: break;
-		}
-		set_bit( board[us][what_piece(m, us)], to_sq(m) );
-		clear_bit( board[us][what_piece(m, us)], from_sq(m) );
+		last_capture = handle_flag ( m, us );
+		PieceType our_piece = what_piece ( from_sq ( m ), us );
+
+		if ( flag ( m ) == capture ) 
+			clear_bit ( board[!us][last_capture], to_sq ( m ) );
+
+		set_bit( board[us][our_piece], to_sq(m) );
+		clear_bit( board[us][our_piece], from_sq(m) );
 	}
 
 	void unmake_move(move m, Colour us) {
-		set_bit( board[us][what_piece(to_sq(m),us)], from_sq(m) );
-		clear_bit( board[us][what_piece(from_sq(m),us)], to_sq(m) );
+		PieceType our_piece = what_piece ( to_sq ( m ), us );
+
+		set_bit( board[us]  [our_piece], from_sq(m) );
+		clear_bit( board[us][our_piece], to_sq(m) );
+
 		if ( flag(m) == capture ) 
 			set_bit( board[!us][last_capture], to_sq(m) );
 	}
@@ -790,6 +796,18 @@ namespace mailbox {
 		print();
 	} 
 
+	void update_print ( MasterBoard mboard ) {
+		update ( mboard );
+		print();	
+	}
+
+	void make_print_unmake_print ( move m, MasterBoard mboard, Colour us) {
+		mboard.make_move ( m, us );
+		update_print ( mboard );
+		mboard.unmake_move ( m, us );
+		update_print ( mboard );
+	}
+
 	void make_unmake_print(move m, PieceSpec captured) {
 		make_move(m);
 		print();
@@ -829,11 +847,16 @@ int alpha_beta_max ( MasterBoard board, int depth, int alpha, int beta )
 			!movelist.popped_front().is_empty(); 
 			movelist = movelist.popped_front() ) 
 	{
-		board.make_move( movelist.front(), BLACK );
+		board.make_move( movelist.front(), us );
+		/*
+		std::cout << from_sq ( movelist.front() ) << " "
+			  << to_sq ( movelist.front () ) << '\n';
+		mailbox::update_print ( board );
+		*/
 		int  n_value = alpha_beta_min ( 
 				board, 
 				depth-1, alpha, beta );
-		board.unmake_move( movelist.front(), BLACK );
+		board.unmake_move( movelist.front(), us );
 		if ( n_value > value ) 
 			value = n_value;
 		if ( n_value >= alpha ) 
@@ -855,11 +878,16 @@ int alpha_beta_min ( MasterBoard board, int depth, int alpha, int beta )
 			!movelist.popped_front().is_empty(); 
 			movelist = movelist.popped_front() ) 
 	{
-		board.make_move( movelist.front(), BLACK );
+		board.make_move( movelist.front(), us );
+		/*
+		std::cout << from_sq ( movelist.front() ) << " "
+			  << to_sq ( movelist.front () ) << '\n';
+		mailbox::update_print ( board );
+		*/
 		int  n_value = alpha_beta_max ( 
 				board, 
 				depth-1, alpha, beta );
-		board.unmake_move( movelist.front(), BLACK );
+		board.unmake_move( movelist.front(), us );
 		if ( n_value < value ) 
 			value = n_value;
 		if ( n_value <= alpha ) 
@@ -905,8 +933,14 @@ int main()
 	
 	Colour us = WHITE;
 
+	//int d = alpha_beta_max ( board, 4, INT_MIN, INT_MAX );
+
+	move m = make_move ( g1, h3 );
+
+//	mailbox::make_print_unmake_print ( m, board, us ); 
+
 	for ( int i = 0; ; ++i ) {
-		move m = best_move ( board, i, 6, us );
+		move m = best_move ( board, i, 7, us );
 		board = board.n_make_move ( m, us );
 		std::cout << bullshit_function ( flag ( m ) ) << '\n'
 			  << bullshit_function ( board.last_captured_p () ) << '\n';
@@ -914,6 +948,6 @@ int main()
 		mailbox::print();
 		us = !us;
 	}
-	
+
 	return 0;
 }

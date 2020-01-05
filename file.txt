@@ -1,0 +1,4190 @@
+6 23
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  . *N  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+*N  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+47 62
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+47 37
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *N  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+47 30
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  . *N  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  . *P *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  . *P  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ . *P  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B  . *R 
+ . *P *P *P *P *P *P *P 
+*P  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  . *N  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+*N  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+45 62
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+45 39
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *N 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+45 35
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *N  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+45 30
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  . *N  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+45 28
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  . *N  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  . *N  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  . *N *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ . *P  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B  . *R 
+ . *P *P *P *P *P *P *P 
+*P  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  . *N  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+ .  . *N  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+42 57
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+42 36
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *N  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+42 32
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+*N  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+42 27
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  . *N  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+42 25
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ . *N  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  . *N  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  . *N  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  . *N  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  . *N  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  . *N *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ . *P *N  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R  . *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P *P 
+*P  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+*N  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R  . *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P *P 
+*N  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+40 57
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+40 34
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *N  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+40 25
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ . *N  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+*N  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+*N  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+*N  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+*N  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+*N  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+*N  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R  . *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+*N *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  . *N  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  . *N  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+*N  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  .  . 
+ .  .  .  .  .  . *P *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  . *P  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  . *P  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  . *P  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  . *P  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ . *P  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P  . 
+*P  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+*P  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+47 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P *P  . 
+ .  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P *P  . 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  .  . 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P  . 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+*P  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  . *P *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  . *N *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  . *N  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+*N  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 54
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P *P *P *B *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 47
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  . *P *B 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  .  . 
+ .  .  .  .  .  . *P *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  .  . 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  .  . *P 
+ .  .  .  .  . *P *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  .  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P  . *P 
+ .  .  .  . *P  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P  . *P 
+ .  .  . *P  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P  . *P 
+ .  . *P  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P  . *P 
+ . *P  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P  . *P 
+*P  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P *P  . *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 54
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P *P *P *B *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 47
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P *P *P  . *P 
+ .  .  .  .  .  .  . *B 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  .  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P *P  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  .  . *P 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  .  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P  . *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P  . *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P  . *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P  . *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P  . *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P  . *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P  . *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P  . *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+60 53
+
+*R *N *B *Q  . *B *N *R 
+*P *P *P *P *P *K *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  . *P  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  . *N  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+*N  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  . *P  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  .  . *P 
+ .  .  .  .  . *P *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  . *P *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  . *P  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  . *P  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ . *P  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P  . *P *P 
+*P  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+*P  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+45 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+60 53
+
+*R *N *B *Q  . *B *N *R 
+*P *P *P *P *P *K *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *P  . *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  . *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P *P  .  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P  . *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+*P  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+60 52
+
+*R *N *B *Q  . *B *N *R 
+*P *P *P *P *K *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 52
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *P *Q *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 45
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P *Q  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 38
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  . *Q  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 52
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *N *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  . *N  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+*N  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 52
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P *B *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 43
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  . *B *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 34
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  . *B  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 25
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ . *B  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 16
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+*B  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  . *P  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P  . *P 
+ .  .  .  . *P  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  . *P *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  . *P *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  . *P  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ . *P  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P  . *P *P *P 
+*P  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+*P  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+60 52
+
+*R *N *B *Q  . *B *N *R 
+*P *P *P *P *K *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 52
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *P *Q *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 45
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  . *Q  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 38
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  . *Q  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 52
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P *N *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 52
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P *B *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 43
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  . *B  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 34
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *B  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 25
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ . *B  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+61 16
+
+*R *N *B *Q *K  . *N *R 
+*P *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+*B  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  . *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P *P  .  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  . *P *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P  . *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+*P  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+60 51
+
+*R *N *B *Q  . *B *N *R 
+*P *P *P *K *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 51
+
+*R *N *B  . *K *B *N *R 
+*P *P *P *Q *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 35
+
+*R *N *B  . *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  . *Q  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 27
+
+*R *N *B  . *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  . *Q  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 19
+
+*R *N *B  . *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  . *Q  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 11
+
+*R *N *B  . *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P *Q  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 51
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *N *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  . *N *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+*N  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 51
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P *B *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 44
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P *B  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 37
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  . *B  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 30
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  . *B  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 23
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . *B 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  . *P  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P  . *P 
+ .  .  . *P  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  . *P  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  . *P *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  . *P *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ . *P  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P  . *P *P *P *P 
+*P  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+*P  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+60 51
+
+*R *N *B *Q  . *B *N *R 
+*P *P *P *K *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 51
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P *N *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 51
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P *B *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 44
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  . *B  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 37
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  . *B  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 30
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  . *B  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 23
+
+*R *N  . *Q *K *B *N *R 
+*P *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . *B 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  . *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P *P  .  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  .  . *P *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P  . *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+*P  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 50
+
+*R *N *B  . *K *B *N *R 
+*P *P *Q *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 41
+
+*R *N *B  . *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ . *Q *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 32
+
+*R *N *B  . *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+*Q  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  . *P  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+*N  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  . *P  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P  . *P 
+ .  . *P  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  . *P  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  . *P  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  . *P *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ . *P *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P  . *P *P *P *P *P 
+*P  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P  . *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+*P  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 50
+
+*R *N *B  . *K *B *N *R 
+*P *P *Q *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 41
+
+*R *N *B  . *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ . *Q  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+59 32
+
+*R *N *B  . *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+*Q  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P *P  . *P *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P *P  . *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P *P  .  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ .  . *P *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P  . *P *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ . *P  . *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+*P  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ . *P  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ . *P  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ . *P *N  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+*N *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 49
+
+*R *N  . *Q *K *B *N *R 
+*P *B *P *P *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 40
+
+*R *N  . *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+*B *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ . *P  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P  . *P 
+ . *P  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ . *P  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ . *P  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ . *P  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ . *P *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ .  . *P *P *P *P *P *P 
+*P *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ .  . *P *P *P *P *P *P 
+ . *P  .  .  .  .  .  . 
+*P  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ .  .  .  .  .  .  . *N 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+*P  . *P *P *P *P *P *P 
+ .  .  .  .  . *N  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+ .  . *N  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 40
+
+*R  . *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+*N  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 49
+
+*R *N  . *Q *K *B *N *R 
+*P *B *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+58 40
+
+*R *N  . *Q *K *B *N *R 
+*P  . *P *P *P *P *P *P 
+*B  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ .  .  .  .  .  .  . *P 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P *P  . 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P *P  . *P 
+ .  .  .  .  .  . *P  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ .  .  .  .  . *P  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P *P  . *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ .  .  .  . *P  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P *P  . *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ .  .  . *P  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+*P  . *P  . *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ .  . *P  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+*P  .  . *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+ . *P *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ .  . *P *P *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 32
+
+*R *N *B *Q *K *B *N *R 
+ .  . *P *P *P *P *P *P 
+ .  .  .  .  .  .  .  . 
+*P *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+48 40
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  N 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+23 38
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 47
+
+*R *N *B *Q *K *B  . *R 
+ . *P *P *P *P *P *P *P 
+*P  .  .  .  .  .  . *N 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+62 45
+
+*R *N *B *Q *K *B  . *R 
+ . *P *P *P *P *P *P *P 
+*P  .  .  .  . *N  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+57 42
+
+*R  . *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P *P 
+*P  . *N  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 47
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P  . 
+*P  .  .  .  .  .  . *P 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+55 39
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P *P  . 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  N *P 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+54 46
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P *P  . *P 
+*P  .  .  .  .  . *P  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 45
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P  . *P *P 
+*P  .  .  .  . *P  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+53 37
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P *P  . *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  .  . *P  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 44
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P  . *P *P *P 
+*P  .  .  . *P  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+52 36
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P *P  . *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  .  . *P  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 43
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P  . *P *P *P *P 
+*P  .  . *P  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+51 35
+
+*R *N *B *Q *K *B *N *R 
+ . *P *P  . *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  .  . *P  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 42
+
+*R *N *B *Q *K *B *N *R 
+ . *P  . *P *P *P *P *P 
+*P  . *P  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+50 34
+
+*R *N *B *Q *K *B *N *R 
+ . *P  . *P *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ .  . *P  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 41
+
+*R *N *B *Q *K *B *N *R 
+ .  . *P *P *P *P *P *P 
+*P *P  .  .  .  .  .  . 
+ .  .  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
+49 33
+
+*R *N *B *Q *K *B *N *R 
+ .  . *P *P *P *P *P *P 
+*P  .  .  .  .  .  .  . 
+ . *P  .  .  .  .  N  . 
+ .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . 
+ P  P  P  P  P  P  P  P 
+ R  N  B  Q  K  B  .  R 
